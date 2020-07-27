@@ -27,7 +27,7 @@
     },
     "available_time": "2020/08/07 13:30 +0800",
     "expire_time": "2020/08/08 17:00 +0800",
-    "countdown": 300,
+    "countdown": 36400,
     "attr": [
       {
         "row_name": "T_shirt_size",
